@@ -1,0 +1,6 @@
+Jaka jest podstawowa różnica pomiędzy SCRUM a Kanban?
+Scrum w swoich rygorystycznych zasadach zakłada model dostarczania w postaci zamkniętych sprintów, 
+których zawartość nie powinna się znacząco zmieniać w jego trakcie.
+ 
+Kanban jako strumień nie zakłada zamkniętych sprintów – elementy mogą być dodawane i zabierane przez PO z listy zadań TODO, 
+dopóki nikt nie rozpoczął nad nimi pracy. Sama lista może być przebudowywana w sposób ciągły wg priorytetów PO.
